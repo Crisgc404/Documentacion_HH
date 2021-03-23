@@ -1,2 +1,3 @@
 Marzo 23, 2021
---Primer entrega de los cuatro diagramas
+--Se acordó utilizar el formato visto en la clase (Patrones de Diseño y Arquitectura de Software con Sergio Eduardo Valenzuela Guerrero).
+--Se espera que en la siguiente sesion se presente un archivo de los diagramas con el formato acordado.
