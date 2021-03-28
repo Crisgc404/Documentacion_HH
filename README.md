@@ -27,5 +27,5 @@ https://docs.google.com/spreadsheets/d/1XA0B3F84uD2Fs5LbLRb3J3mgX6iCVcbwEqojJ_jq
 --------------------------------------------------
 
 Front preview:
-https://testhh-640ed.web.app/
+http://189.85.36.81:8001/login
 
