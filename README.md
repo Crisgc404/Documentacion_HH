@@ -16,9 +16,13 @@ Diagrama de objetos:
 
 https://drive.google.com/file/d/1Uwfej6TEJHvsSX6-t6wk5ijDTp93_Bdq/view?usp=sharing
 
-Diagrama de entidad-relacion
+Diagrama de entidad-relacion:
+
+https://drive.google.com/file/d/1FRXm7RhED8eKf2av1PyxKMn1XS86AyCI/view?usp=sharing
 
 Diccionario de datos
+
+https://docs.google.com/spreadsheets/d/1XA0B3F84uD2Fs5LbLRb3J3mgX6iCVcbwEqojJ_jqJsk/edit?usp=sharing
 
 --------------------------------------------------
 
